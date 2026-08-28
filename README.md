@@ -1,4 +1,5 @@
-# 📊 Retail SLA & Profit Margin Audit
+# 📊 Auditoría de SLA y margen de beneficio en el sector minorista
+
 
 Este proyecto analiza mas de 1.000 transacciones comerciales ($683K USD) de un retail omnicanal en Colombia (CD Centro, CD Norte - Pasto y CD Sur). El objetivo es diagnosticar la erosión del margen operativo, auditar el cumplimiento logístico (SLA) y medir el impacto financiero de los retrasos en las entregas.
 
