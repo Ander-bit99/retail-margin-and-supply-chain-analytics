@@ -13,3 +13,8 @@ Este proyecto analiza mas de 1.000 transacciones comerciales ($683K USD) de un r
 * **Power Query (Lenguaje M):** Limpieza, normalización e ingeniería de variables para mas de 1.000 registros.
 * **Microsoft Excel:** Tablas dinámicas avanzadas, análisis de varianza presupuestal y campos calculados de margen.
 * **Modelado de Métricas:** Creación del indicador de impacto financiero por fallo logístico (% SLA / Margen en Riesgo).
+
+### 🔗 Recursos del Proyecto
+
+* 📊 **Libro Maestro de Excel:** [Ver / Descargar Excel](https://github.com/Ander-bit99/retail-sales-discount-analysis./blob/main/Analisis_canales_retail.xlsx)
+* 📄 **Informe Ejecutivo en PDF:** [Ver / Descargar PDF](https://github.com/Ander-bit99/retail-sales-discount-analysis./blob/main/CASO_DE_ESTUDIO_AN%C3%81LISIS%20_RETAIL.pdf)
