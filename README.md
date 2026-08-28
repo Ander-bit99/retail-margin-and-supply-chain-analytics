@@ -16,5 +16,5 @@ Este proyecto analiza mas de 1.000 transacciones comerciales ($683K USD) de un r
 
 ### 🔗 Recursos del Proyecto
 
-* 📊 **Libro Maestro de Excel:** [Ver / Descargar Excel](https://github.com/Ander-bit99/retail-sales-discount-analysis./blob/main/Analisis_canales_retail.xlsx)
-* 📄 **Informe Ejecutivo en PDF:** [Ver / Descargar PDF](https://github.com/Ander-bit99/retail-sales-discount-analysis./blob/main/CASO_DE_ESTUDIO_AN%C3%81LISIS%20_RETAIL.pdf)
+* 📊 **Libro Maestro de Excel:** [Ver / Descargar Excel](https://github.com/Ander-bit99/retail-margin-and-supply-chain-analytics/blob/main/Auditor%C3%ADa%20Integral%20de%20Margen%20Contributivo%2C%20Eficiencia%20de%20Capital%20y%20SLA%20Operativo.xlsx)
+* 📄 **Informe Ejecutivo en PDF:** [Ver / Descargar PDF](https://github.com/Ander-bit99/retail-margin-and-supply-chain-analytics/blob/main/Auditor%C3%ADa%20Integral%20de%20Margen%20Contributivo%2C%20Eficiencia%20de%20Capital%20y%20SLA%20Operativo.pdf)
